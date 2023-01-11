@@ -2,7 +2,7 @@
 title: Lunacy Home Tab
 keywords: 
 sidebar: general_sidebar
-permalink: lunacy_home_tab.html
+permalink: lunacy-home-tab.html
 folder: stories
 summary: ""
 ---

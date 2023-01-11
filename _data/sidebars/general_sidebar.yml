@@ -10,5 +10,5 @@ entries:
     output: web
 
   - title: Lunacy Home Tab 
-    url: lunacy_home_tab.html
+    url: lunacy-home-tab.html
     output: web
