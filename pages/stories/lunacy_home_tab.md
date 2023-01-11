@@ -30,9 +30,19 @@ summary: ""
 
 If you already have the Icons8 account, log in with that account. Otherwise, use the register form to create a new account via your email (or use social login - your existing social account IDs, such as GitHub, Google, Facebook, and Microsoft).
 
-<p><img src="{{ "images/Log_in.png" }}" alt="Lunacy Home Tab Login section " style="border: 1px solid #D3D3D3;"/></p>
+<p>
+    <figure>
+        <img src="{{ "images/Log_in.png" }}" alt="Lunacy Home Tab Login section " style="border: 1px solid #D3D3D3;"/>
+        <figcaption style="color: #D3D3D3;">Log in with the Icons8 account, or social login</figcaption>
+    </figure>
+</p>
 
-<p><img src="{{ "images/Register.png" }}" alt="Lunacy Home Tab Register section" style="border: 1px solid #D3D3D3;"/></p>
+<p>
+    <figure>
+        <img src="{{ "images/Register.png" }}" alt="Lunacy Home Tab Register section" style="border: 1px solid #D3D3D3;"/>
+        <figcaption style="color: #D3D3D3;">Create a new Icons8 account with an email, or your social account ID</figcaption>
+    </figure>
+</p>
 
 ## Document types area 
 
