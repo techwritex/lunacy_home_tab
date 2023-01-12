@@ -215,39 +215,39 @@ To create a team do the following:
 
 1. Click Create New Team.
 
-<p>
-    <figure>
-        <img src="{{ "images/Create_team_1.png" }}" alt="Lunacy Home Tab team section - The first step of creating a team" style="border: 1px solid #D3D3D3;"/>
-        <figcaption style="color: #D3D3D3; text-align: center;">The first step of creating a team</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/Create_team_1.png" }}" alt="Lunacy Home Tab team section - The first step of creating a team" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">The first step of creating a team</figcaption>
+        </figure>
+    </p>
 
 2. Give a name of your team, then click Create Team.
 
-<p>
-    <figure>
-        <img src="{{ "images/Create_team_2.png" }}" alt="Lunacy Home Tab team section - The second step of creating a team" style="border: 1px solid #D3D3D3;"/>
-        <figcaption style="color: #D3D3D3; text-align: center;">The second step of creating a team</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/Create_team_2.png" }}" alt="Lunacy Home Tab team section - The second step of creating a team" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">The second step of creating a team</figcaption>
+        </figure>
+    </p>
 
 3. Invite your team members via one-time link (optional).
 
-<p>
-    <figure>
-        <img src="{{ "images/Create_team_3.png" }}" alt="Lunacy Home Tab team section - The third step of creating a team" style="border: 1px solid #D3D3D3;"/>
-        <figcaption style="color: #D3D3D3; text-align: center;">The third step of creating a team</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/Create_team_3.png" }}" alt="Lunacy Home Tab team section - The third step of creating a team" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">The third step of creating a team</figcaption>
+        </figure>
+    </p>
 
 4. After creating your team, you can manage the team and create new projects. 
 
-<p>
-    <figure>
-        <img src="{{ "images/Create_team_4.png" }}" alt="Lunacy Home Tab team section - The team has been just created!" style="border: 1px solid #D3D3D3;"/>
-        <figcaption style="color: #D3D3D3; text-align: center;">The team has been just created!</figcaption>
-    </figure>
-</p>
+    <p>
+        <figure>
+            <img src="{{ "images/Create_team_4.png" }}" alt="Lunacy Home Tab team section - The team has been just created!" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">The team has been just created!</figcaption>
+        </figure>
+    </p>
 
 ## Information section
 
