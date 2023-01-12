@@ -213,7 +213,7 @@ In the Teams section, you can create a team and invite others to work together o
 
 To create a team do the following:
 
-1. Click Create New Team.
+1. Click **Create New Team**.
 
     <p>
         <figure>
@@ -222,7 +222,7 @@ To create a team do the following:
         </figure>
     </p>
 
-2. Give a name of your team, then click Create Team.
+2. Give a name of your team, then click **Create Team**.
 
     <p>
         <figure>
