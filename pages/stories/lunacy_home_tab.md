@@ -46,6 +46,47 @@ If you already have the Icons8 account, log in with that account. Otherwise, use
 
 ## Document types area 
 
+The Document types area consists of the following sections:
+
+- Resent
+- Documents
+- Deleted
+
+    ### Recent
+
+    The Recent section contains documents you’ve recently worked with.
+
+    <p>
+        <figure>
+            <img src="{{ "images/Recent.png" }}" alt="Lunacy Home Tab Recent section" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">All recent documents in the Recent section</figcaption>
+        </figure>
+    </p>
+
+    ### Documents
+
+    The Documents section contains your cloud documents only.
+
+    <p>
+        <figure>
+            <img src="{{ "images/Documents.png" }}" alt="Lunacy Home Tab Documents section" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">Cloud documents in the Documents section</figcaption>
+        </figure>
+    </p>
+
+    ### Deleted
+
+    The Deleted section contains your removed cloud documents.
+
+    {% include note.html content="If you work with the free plan, your documents will be archived in 30 days and cannot be restored. To remove restrictions, upgrade your plan." %}
+
+    <p>
+        <figure>
+            <img src="{{ "images/Deleted.png" }}" alt="Lunacy Home Tab Deleted section" style="border: 1px solid #D3D3D3;"/>
+            <figcaption style="color: #D3D3D3; text-align: center;">Documents in the Deleted section</figcaption>
+        </figure>
+    </p>
+
 ## Getting started section 
 
 ## Documents list area
