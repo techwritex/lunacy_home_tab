@@ -52,42 +52,70 @@ The Document types area consists of the following sections:
 - Documents
 - Deleted
 
-    ### Recent
+### Recent
 
-    The Recent section contains documents you’ve recently worked with.
+The Recent section contains documents you’ve recently worked with.
 
-    <p>
-        <figure>
-            <img src="{{ "images/Recent.png" }}" alt="Lunacy Home Tab Recent section" style="border: 1px solid #D3D3D3;"/>
-            <figcaption style="color: #D3D3D3; text-align: center;">All recent documents in the Recent section</figcaption>
-        </figure>
-    </p>
+<p>
+    <figure>
+        <img src="{{ "images/Recent.png" }}" alt="Lunacy Home Tab Recent section" style="border: 1px solid #D3D3D3;"/>
+        <figcaption style="color: #D3D3D3; text-align: center;">All recent documents in the Recent section</figcaption>
+    </figure>
+</p>
 
-    ### Documents
+### Documents
 
-    The Documents section contains your cloud documents only.
+The Documents section contains your cloud documents only.
 
-    <p>
-        <figure>
-            <img src="{{ "images/Documents.png" }}" alt="Lunacy Home Tab Documents section" style="border: 1px solid #D3D3D3;"/>
-            <figcaption style="color: #D3D3D3; text-align: center;">Cloud documents in the Documents section</figcaption>
-        </figure>
-    </p>
+<p>
+    <figure>
+        <img src="{{ "images/Documents.png" }}" alt="Lunacy Home Tab Documents section" style="border: 1px solid #D3D3D3;"/>
+        <figcaption style="color: #D3D3D3; text-align: center;">Cloud documents in the Documents section</figcaption>
+    </figure>
+</p>
 
-    ### Deleted
+### Deleted
 
-    The Deleted section contains your removed cloud documents.
+The Deleted section contains your removed cloud documents.
 
-    {% include note.html content="If you work with the free plan, your documents will be archived in 30 days and cannot be restored. To remove restrictions, upgrade your plan." %}
+{% include note.html content="If you work with the free plan, your documents will be archived in 30 days and cannot be restored. To remove restrictions, upgrade your plan." %}
 
-    <p>
-        <figure>
-            <img src="{{ "images/Deleted.png" }}" alt="Lunacy Home Tab Deleted section" style="border: 1px solid #D3D3D3;"/>
-            <figcaption style="color: #D3D3D3; text-align: center;">Documents in the Deleted section</figcaption>
-        </figure>
-    </p>
+<p>
+    <figure>
+        <img src="{{ "images/Deleted.png" }}" alt="Lunacy Home Tab Deleted section" style="border: 1px solid #D3D3D3;"/>
+        <figcaption style="color: #D3D3D3; text-align: center;">Documents in the Deleted section</figcaption>
+    </figure>
+</p>
 
 ## Getting started section 
+
+The Getting started section includes of the following buttons:
+
+- New Cloud Document
+- New Local Document
+- Import…
+- Open…
+
+Click a button to perform an action you need (to create new documents or to open existing ones).
+
+<p>
+    <figure>
+        <img src="{{ "images/Getting_started.png" }}" alt="Lunacy Home Tab Deleted section" style="border: 1px solid #D3D3D3;"/>
+        <figcaption style="color: #D3D3D3; text-align: center;">Getting_started section</figcaption>
+    </figure>
+</p>
+
+### New Cloud Document
+Use **New Cloud Document** to create a cloud document.
+
+### New Local Document
+Use **New Local Document** to create a local document.
+
+### Import…
+Use **Import…** to add to your Lunacy document any .sketch files (for instance, from [www.sketchappsources.com](https://www.sketchappsources.com)).
+
+### Open…
+Use **Open…** to open your local documents or to import other .sketch files.
 
 ## Documents list area
 
